@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HammadsGit
 - 👀 I’m interested in Developing new software/tools to automate Tasks.
-- 🌱 I’m currently learning/studying as First Year Computer Science at University of Leeds.
+- 🌱 I’m currently learning/studying as Second Year Computer Science at University of Leeds.
 - 💞️ I’m looking to collaborate on any intersting projects!
 - 📫 How to reach me hammadshahid734@gmail.com
 
